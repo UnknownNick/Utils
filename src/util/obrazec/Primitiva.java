@@ -1,7 +1,5 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Author of this file is Pavel Herout and it came with his book "Učebnice jazyka java 2".
  */
 package util.obrazec;
 import java.awt.*;
